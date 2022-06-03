@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\AppTrivia\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_game_won.xml",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\AppTrivia\\app\\src\\main\\res\\layout\\fragment_game_won.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\AppTrivia\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_title.xml",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\AppTrivia\\app\\src\\main\\res\\layout\\fragment_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\AppTrivia\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_game_over.xml",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\AppTrivia\\app\\src\\main\\res\\layout\\fragment_game_over.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\AppTrivia\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_game.xml",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\AppTrivia\\app\\src\\main\\res\\layout\\fragment_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\AppTrivia\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\AppTrivia\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
